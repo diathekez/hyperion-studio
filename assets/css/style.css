@@ -942,7 +942,8 @@ figure.effect-julia:hover p {
 	float: left;
 	min-height: 100%;
 	display: inline-block;
-	padding: 20em 2em 6em;
+	padding: 15em 5em 6em;
+  /* 15, 5 */
 }
 
 .designer-top h4 {
@@ -1369,8 +1370,8 @@ label {
 ------------------------------------------------------- */
 
 footer {
-	background-color: #727272;
-	background-image:url(../img/about-imgs/mag.png);
+	background-color: #333333;
+	background-image:url(../img/about-imgs/llama_center.png);
 	background-position: left top;
 	background-repeat: repeat;
 }
