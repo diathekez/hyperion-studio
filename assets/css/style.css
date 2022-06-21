@@ -4,6 +4,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
 
+@import url(fontawesome-all.min.css);
+
 body {
   font-family: 'Khand', sans-serif;
   background: transparent;
@@ -42,6 +44,11 @@ a:hover {
   text-align: center;
 }
 
+.span-header {
+  font-size: 40px;
+  color: rgba(0, 0, 0, 0.8);
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
 
 p {
   margin-bottom: 1.5em;
@@ -1368,9 +1375,22 @@ label {
 
 footer {
   padding-top: 2px;
-  padding-bottom: 2px;
-  margin-top: 15px;
+  padding-bottom: 5px;
   text-align: center;
+}
+
+.social-icons ul {
+  margin-right: 50px;
+  list-style: none;
+  font-size: 20px;
+  font-family: 'Font Awesome 5 Brands';
+
+}
+
+.social-icons li {
+  display: inline-block;
+  margin-right: 5px;
+  margin-left: 5px;
 }
 
 /* ----------------------------------------------------

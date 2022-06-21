@@ -3,3 +3,4 @@
 /404.html           /404
 /about.html         /about
 /history.html       /history
+/portfolio.html     /portfolio
