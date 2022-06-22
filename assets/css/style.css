@@ -1374,6 +1374,7 @@ label {
 ------------------------------------------------------- */
 
 footer {
+  margin-top: 10px;
   padding-top: 2px;
   padding-bottom: 5px;
   text-align: center;
