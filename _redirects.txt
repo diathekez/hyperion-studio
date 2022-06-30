@@ -4,3 +4,4 @@
 /about.html         /about
 /history.html       /history
 /portfolio.html     /portfolio
+/about.html         /about
